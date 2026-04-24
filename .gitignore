@@ -1,6 +1,2 @@
-local/
-uploads/
-processed/
-logs/
-bin/
-.env
+**/.env
+
