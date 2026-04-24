@@ -1,0 +1,1 @@
+DROP TYPE IF EXISTS image_status;
